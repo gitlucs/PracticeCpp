@@ -1,2 +1,2 @@
 # TreinandoC++
-TraningC++ForCompetitions
+Traning C++ For Competitions
