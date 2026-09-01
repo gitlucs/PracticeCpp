@@ -17,7 +17,6 @@ int main(void){
     for(int i = 0; i < N; i++){
         if(menor_sobra > armazenados[i][0] - armazenados[i][1]){
             menor_sobra = armazenados[i][0] - armazenados[i][1];
-            elemento[0] = armazenados[i];
         }
     }
 
